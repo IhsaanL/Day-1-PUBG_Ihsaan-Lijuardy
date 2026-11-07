@@ -17,4 +17,5 @@ Repository adalah tempat penyimpanan yang menyimpan dan mengelola berbagai file-
 # **Dokumentasi**
 
 ![image alt](https://github.com/IhsaanL/Day-1-PUBG_Ihsaan-Lijuardy/blob/a3c016d8a4e7cee04c8b4e39d3cd1c963df32383/Rangkuman%20SOSJUR%20day%201.jpeg)
+![image alt](https://github.com/IhsaanL/Day-1-PUBG_Ihsaan-Lijuardy/blob/48258288c80510031679b9087e5b28032f2dc7dd/Rangkuman%20SOSJUR%20day%201(2).jpeg)
 
